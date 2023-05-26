@@ -1,4 +1,3 @@
-# Hi
 My name is Sankar Mukherjee.
 
 I am an engineer.
@@ -16,7 +15,4 @@ Currently I live in the [Kolkata](https://www.google.com/search?q=kolkata&oq=kol
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/sank_y#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/sank_y#gh-dark-mode-only)
-
----
-
 
