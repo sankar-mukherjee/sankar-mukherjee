@@ -1,8 +1,5 @@
-My name is Sankar Mukherjee.
+My name is Shankar Mukherjee. I am interested in speech synthesis and generative modelling.
 
-I am an engineer.
-
-Currently I live in the [Kolkata](https://www.google.com/search?q=kolkata&oq=kolkata&aqs=chrome.0.0i271j46i433i512j0i131i433i512l4j69i61l2.1133j0j7&sourceid=chrome&ie=UTF-8), India. 
 
 ---
 ### Connect with me:
