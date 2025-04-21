@@ -13,5 +13,4 @@ My name is Shankar Mukherjee. I am interested in speech synthesis and generative
 [![website](./img/twitter-light.svg)](https://twitter.com/sank_y#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/sank_y#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/substack-light.svg)](https://sankar1535.substack.com#gh-light-mode-only)
-[![website](./img/substack-dark.svg)](https://sankar1535.substack.com#gh-dark-mode-only)
+[![website](./img/substack.svg)](https://sankar1535.substack.com)
