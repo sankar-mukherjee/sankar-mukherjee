@@ -1,4 +1,4 @@
-My name is Sankar Mukherjee. I am interested in speech synthesis and generative modelling.
+My name is Sankar Mukherjee. I am interested in generative ai.
 
 
 ---
